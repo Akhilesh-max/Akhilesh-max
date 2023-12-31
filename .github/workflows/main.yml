@@ -1,8 +1,10 @@
 name: Update README
 
 on:
+  workflow_dispatch:  # Allows manual triggering
   schedule:
     - cron: '20 22 * * *'  # Runs every day at 10:20 PM UTC
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
