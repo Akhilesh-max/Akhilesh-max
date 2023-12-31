@@ -25,3 +25,6 @@ jobs:
           git config --global user.name "GitHub Actions"
           git commit -am "Updated README" 
           git push
+        env:
+         ACTIONS_GITHUB_TOKEN: ${{ secrets.ACTIONS_GITHUB_TOKEN }}
+
