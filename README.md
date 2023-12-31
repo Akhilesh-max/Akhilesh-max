@@ -12,7 +12,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const Akhilesh = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Golang, Python, Java],
   tools: [React, Express , Node, Storybook, Styled-Components, Docker],
@@ -21,7 +21,9 @@ const thai = {
                         Tech club: "FunctionUp",
                         speaker: "inventix",
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on MERN, Besides DSA"
+ challenge: "I am doing the #100DaysOfCode challenge focused on MERN, 
+ Besides DSA"
+ Hobbies: " 🗣️ Public Speaking &&  📈 Algorithmic Trading "
 }
 ```
 
