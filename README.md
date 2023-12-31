@@ -1,26 +1,27 @@
 <h2> Hi, I'm Akhilesh Kr.!  <img src="https://media.giphy.com/media/WUm2STzv0N5fl3ezyr/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img align='right' src="output-onlinegiftools.gif" width="290">
+<p><em>Project Student at <a href="http://www.unb.br">FunctionUp School of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 🔍 Currently exploring  <a href="https://www.thoughtworks.com">Operating Systems</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
-
+[![Twitter: Akhilesh](https://img.shields.io/twitter/follow/AKY241005?style=social)](https://twitter.com/aky241005)
+[![Linkedin: Akhilesh](https://img.shields.io/badge/-AkhileshKr.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/akhilesh-kr-yadav)
+<a href="https://www.instagram.com/i_amm_akhilesh">
+    <img src="https://img.shields.io/badge/-follow-black?style=social&logo=Instagram" alt="Instagram badge">
+</a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const thai = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, golang, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  code: [Javascript, Typescript, HTML, CSS, Golang, Python, Java],
+  tools: [React, Express , Node, Storybook, Styled-Components, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         Tech club: "FunctionUp",
                         speaker: "inventix",
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on MERN, Besides DSA"
 }
 ```
 
