@@ -1,6 +1,6 @@
 <h2> Hi, I'm Akhilesh Kr.!  <img src="https://media.giphy.com/media/WUm2STzv0N5fl3ezyr/giphy.gif" width="50"></h2>
 <img align='right' src="output-onlinegiftools.gif" width="290">
-<p><em>Project Student at <a href="http://www.unb.br">FunctionUp School of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 🔍 Currently exploring  <a href="https://www.thoughtworks.com">Operating Systems</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Project Student at <a href="https://www.functionupuniversity.com/">FunctionUp School of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 🔍 Currently exploring : Operating Systems <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Akhilesh](https://img.shields.io/twitter/follow/AKY241005?style=social)](https://twitter.com/aky241005) &nbsp;&nbsp;
