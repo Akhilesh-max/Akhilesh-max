@@ -3,12 +3,14 @@
 <p><em>Project Student at <a href="http://www.unb.br">FunctionUp School of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 🔍 Currently exploring  <a href="https://www.thoughtworks.com">Operating Systems</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: Akhilesh](https://img.shields.io/twitter/follow/AKY241005?style=social)](https://twitter.com/aky241005)
-[![Linkedin: Akhilesh](https://img.shields.io/badge/-AkhileshKr.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/akhilesh-kr-yadav)
+[![Twitter: Akhilesh](https://img.shields.io/twitter/follow/AKY241005?style=social)](https://twitter.com/aky241005) &nbsp;&nbsp;
+[![Linkedin: Akhilesh](https://img.shields.io/badge/-AkhileshKr.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/akhilesh-kr-yadav) &nbsp;&nbsp;
 <a href="https://www.instagram.com/i_amm_akhilesh">
     <img src="https://img.shields.io/badge/-follow-black?style=social&logo=Instagram" alt="Instagram badge">
-</a>
-
+</a> &nbsp;&nbsp;
+<a href="https://http://akhileshkr.unaux.com/">
+    <img src="https://img.shields.io/badge/-Personal Website-black?style=social&logo=WordPress" alt="Personal Website">
+</a> &nbsp;&nbsp;
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
