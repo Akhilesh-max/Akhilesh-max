@@ -1,5 +1,5 @@
 <h2> Hi, I'm Akhilesh Kr.!  <img src="https://media.giphy.com/media/WUm2STzv0N5fl3ezyr/giphy.gif" width="50"></h2>
-<img align='right' src="output-onlinegiftools.gif" width="240">
+<img align='right' src="output-onlinegiftools.gif" width="290">
 <p><em>Project Student at <a href="https://www.functionupuniversity.com/">FunctionUp School of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 🔍 Currently exploring : Operating Systems <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
