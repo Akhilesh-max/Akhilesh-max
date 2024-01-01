@@ -1,12 +1,12 @@
 <h2> Hi, I'm Akhilesh Kr.!  <img src="https://media.giphy.com/media/WUm2STzv0N5fl3ezyr/giphy.gif" width="50"></h2>
-<img align='right' src="output-onlinegiftools.gif" width="290">
+<img align='right' src="output-onlinegiftools.gif" width="240">
 <p><em>Project Student at <a href="https://www.functionupuniversity.com/">FunctionUp School of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 🔍 Currently exploring : Operating Systems <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Akhilesh](https://img.shields.io/twitter/follow/AKY241005?style=social)](https://twitter.com/aky241005) &nbsp;&nbsp;
 [![Linkedin: Akhilesh](https://img.shields.io/badge/-AkhileshKr.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/akhilesh-kr-yadav) &nbsp;&nbsp;
-<a href="https://www.instagram.com/i_amm_akhilesh">
-    <img src="https://img.shields.io/badge/-follow-black?style=social&logo=Instagram" alt="Instagram badge">
+<a href="https://leetcode.com/Akhilesh-max/">
+    <img src="https://img.shields.io/badge/-LeetCode-black?style=social&logo=Leetcode" alt="Leetcode badge">
 </a> &nbsp;&nbsp;
 <a href="https://http://akhileshkr.unaux.com/">
     <img src="https://img.shields.io/badge/-Personal Website-black?style=social&logo=WordPress" alt="Personal Website">
@@ -23,8 +23,7 @@ const Akhilesh = {
                         Tech club: "FunctionUp",
                         speaker: "inventix",
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on MERN, 
- Besides DSA"
+ challenge: "I am doing the #100DaysOfCode challenge focused on MERN, Besides DSA"
  Hobbies: " 🗣️ Public Speaking &&  📈 Algorithmic Trading "
 }
 ```
