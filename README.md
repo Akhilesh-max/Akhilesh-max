@@ -31,12 +31,14 @@ const Akhilesh = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ## ❤️ Today's Inspiration
-<div align="center">
+<p align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?font=merienda" alt="Github Readme Daily Quotes">
   <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-dark-mode-only">
     <img src="https://readme-daily-quotes.vercel.app/api?theme=dark#gh-dark-mode-only" alt="Github Readme Daily Quotes - Dark">
   </a>
-</div>
+</p>
+
+
 
 ##                        🔥 GitHub stats:
 
