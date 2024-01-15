@@ -8,8 +8,8 @@
 <a href="https://leetcode.com/Akhilesh-max/">
     <img src="https://img.shields.io/badge/-LeetCode-black?style=social&logo=Leetcode" alt="Leetcode badge">
 </a> &nbsp;&nbsp;
-<a href="https://http://akhileshkr.unaux.com/">
-    <img src="https://img.shields.io/badge/-Personal Website-black?style=social&logo=WordPress" alt="Personal Website">
+<a href="https://medium.com/@akacademic05">
+    <img src="https://img.shields.io/badge/-Personal Website-black?style=social&logo=medium" alt="Blogs">
 </a> &nbsp;&nbsp;
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
