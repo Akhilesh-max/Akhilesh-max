@@ -16,7 +16,7 @@
 ```javascript
 const Akhilesh = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Golang, Python, Java],
+  code: [Javascript, Typescript, HTML, CSS, Rust, Python, Java],
   tools: [React, Express , Node, Storybook, Styled-Components, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
