@@ -16,14 +16,13 @@
 ```javascript
 const Akhilesh = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  tools: [React, Express , Node, Storybook, Styled-Components, Docker],
+  code: [Javascript, Typescript, Golang, Java, Python, HTML, CSS, Python, Java],
+  tools: [React, Express , Node, Styled-Components, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         Tech club: "FunctionUp",
                         speaker: "inventix",
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on MERN, Besides DSA"
  Hobbies: " 🗣️ Public Speaking &&  📈 Algorithmic Trading "
 }
 ```
