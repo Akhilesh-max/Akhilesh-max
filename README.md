@@ -1,6 +1,6 @@
 <h2> Hi, I'm Akhilesh Kr.!  <img src="https://media.giphy.com/media/WUm2STzv0N5fl3ezyr/giphy.gif" width="50"></h2>
 <img align='right' src="output-onlinegiftools.gif" width="240">
-<p><em>Project Student at Polaris School of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 🔍 Currently exploring : Operating Systems <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Project Student at Polaris School of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 🔍 Currently exploring : Remote Attestation Systems <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Akhilesh](https://img.shields.io/twitter/follow/AKY241005?style=social)](https://twitter.com/aky241005) &nbsp;&nbsp;
@@ -16,6 +16,7 @@
 ```javascript
 const Akhilesh = {
   pronouns: "he" | "him",
+  Experience: [LFX'25 @CCC - veraison, ex-Backend Inter @Classplus, GSoC'24 @Oppia]
   code: [Javascript, Typescript, Golang, Java, Python, HTML, CSS, Python, Java],
   tools: [React, Express , Node, Styled-Components, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
