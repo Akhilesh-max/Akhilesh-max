@@ -55,8 +55,7 @@ const Akhilesh = {
 </p>
 
 
-
-[![Akhilesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhilesh-max&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Akhilesh-max/github-readme-activity-graph)
+<!-- [![Akhilesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhilesh-max&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Akhilesh-max/github-readme-activity-graph) -->
 <h3 align="center">Visitor's count</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{Akhilesh-max}/count.svg/" alt="Akhilesh-max Visitor's count" /></p>
 
